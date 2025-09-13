@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **sounakkundu66@gmail.com** For Collaboration/Project or An
 - 🌱 **I’m currently learning:** AI/ML
 - 👯 **I’m looking to collaborate on:** GENAI Projects
 - 📫 **How to reach me:** sounakkundu66@gmail.com
-- 😄 **Pronouns:** Sounak
+- 😄 **Pronouns:** he/him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 <!-- Snake Game Repo View -->
 
